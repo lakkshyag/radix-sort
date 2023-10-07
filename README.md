@@ -1,5 +1,5 @@
 # radix-sort
-A C++ program for the implementatoin of radix sort, which works for both positive and negative integers.
+A C++ program for the implementation of radix sort, which works for both positive and negative integers.
 
 This uses a class and multiple functions to perform sorting in O(d*n) time where n is the number of elements in the input array and d is the maximum of number of digits in the largest positive number or the smallest negative number.
 The program also takes O(n) extra space.
